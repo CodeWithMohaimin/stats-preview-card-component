@@ -1,6 +1,8 @@
 # Frontend Mentor - Stats preview card component
 
-## This Project is basically for level up my CSS knowledge. Where I create A stats-preview-card-component project for my self with Html, CSS. It's great project for learning CSS Flex box CSS responsive design patterns and CSS media query.
+## Live Link [Click Here](https://stats-priview-card.netlify.app/)
+
+### This Project is basically for level up my CSS knowledge. Where I create A stats-preview-card-component project for my self with Html, CSS. It's great project for learning CSS Flex box CSS responsive design patterns and CSS media query.
 
 ![Design preview for the Stats preview card component coding challenge](./design/desktop-preview.jpg)
 
