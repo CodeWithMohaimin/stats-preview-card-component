@@ -1,10 +1,9 @@
 # Frontend Mentor - Stats preview card component
 
+## This Project is basically for level up my CSS knowledge. Where I create A stats-preview-card-component project for my self with Html, CSS. It's great project for learning CSS Flex box CSS responsive design patterns and CSS media query.
+
 ![Design preview for the Stats preview card component coding challenge](./design/desktop-preview.jpg)
 
-## Welcome! 👋
-
-Thanks for checking out this front-end coding challenge.
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
